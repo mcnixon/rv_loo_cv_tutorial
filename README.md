@@ -1,5 +1,7 @@
 # LOO-CV for radial velocity analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22779652.svg)](https://doi.org/10.5281/zenodo.22779652)
+
 Tutorial notebooks on applying
 leave-one-out cross-validation (LOO-CV) to radial velocity data.
 
@@ -32,11 +34,13 @@ published posterior samples, and then applies PSIS as in the uncorrelated case.
 
 ## Data
 
-`auxiliary_data/` must be downloaded separately:
+The notebooks need an `auxiliary_data/` directory that is too large for this repository (about
+310 MB). It is archived on Zenodo:
 
-https://www.dropbox.com/scl/fo/xwg4o1e2cd2oaznprv89x/AKLkxaNFfwncWAtfP3XzAOU?rlkey=3yywpq0j78anh21iqq90y06di&st=rqs4mmwr&dl=0
+https://doi.org/10.5281/zenodo.22779652
 
-Place the downloaded `auxiliary_data/` directory alongside the notebooks. It contains:
+Download the files from that record into a directory named `auxiliary_data/` alongside the
+notebooks. It should contain:
 
 | File | Used by |
 |---|---|
