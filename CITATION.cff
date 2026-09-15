@@ -12,6 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-4508-2436"
     affiliation: "Department of Astronomy & Astrophysics, University of Chicago"
 repository-code: "https://github.com/mcnixon/rv_loo_cv_tutorial"
+license: MIT
 date-released: 2026-09-15
 keywords:
   - exoplanets
