@@ -13,6 +13,7 @@ authors:
     affiliation: "Department of Astronomy & Astrophysics, University of Chicago"
 repository-code: "https://github.com/mcnixon/rv_loo_cv_tutorial"
 license: MIT
+doi: 10.5281/zenodo.22779652
 date-released: 2026-09-15
 keywords:
   - exoplanets
